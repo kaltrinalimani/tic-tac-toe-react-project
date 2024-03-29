@@ -4,7 +4,7 @@ import GameBoard from "./components/GameBoard.jsx";
 import Log from "./components/Log.jsx";
 import { WINNING_COMBINATIONS } from "./winning-combinations.js";
 import GameOver from "./components/GameOver.jsx";
-
+//Tic tac toe project
 const PLAYERS = {
   X: "Player 1",
   O: "Player 2",
